@@ -2,7 +2,7 @@
   {
     "id": "L001",
     "image": "https://i.ibb.co.com/jZRr37Lw/01.jpg",
-    "name": "John A. Smith",
+    "name": "Emily R. Johnson",
     "speciality": "Corporate Law",
     "experience": 15,
     "licenseNumber": "CA123456",
@@ -11,8 +11,8 @@
   },
   {
     "id": "L002",
-    "image": "https://i.ibb.co.com/jZRr37Lw/01.jpg",
-    "name": "Emily R. Johnson",
+    "image": "https://i.ibb.co.com/wrRghBVv/02.jpg",
+    "name": "John A. Smith",
     "speciality": "Criminal Defense",
     "experience": 8,
     "licenseNumber": "NY789012",
@@ -21,7 +21,7 @@
   },
   {
     "id": "L003",
-    "image": "https://example.com/images/lawyer3.jpg",
+    "image": "https://i.ibb.co.com/8gP95p09/03.jpg",
     "name": "Michael T. Brown",
     "speciality": "Family Law",
     "experience": 12,
@@ -31,8 +31,8 @@
   },
   {
     "id": "L004",
-    "image": "https://example.com/images/lawyer4.jpg",
-    "name": "Sarah L. Davis",
+    "image": "https://i.ibb.co.com/LzybXTSY/04.jpg",
+    "name": "David K. Wilson ",
     "speciality": "Intellectual Property",
     "experience": 10,
     "licenseNumber": "FL901234",
@@ -41,8 +41,8 @@
   },
   {
     "id": "L005",
-    "image": "https://example.com/images/lawyer5.jpg",
-    "name": "David K. Wilson",
+    "image": "https://i.ibb.co.com/RTZMBDHS/05.jpg",
+    "name": "Sarah L. Davis",
     "speciality": "Real Estate Law",
     "experience": 20,
     "licenseNumber": "IL567890",
@@ -51,7 +51,7 @@
   },
   {
     "id": "L006",
-    "image": "https://example.com/images/lawyer6.jpg",
+    "image": "https://i.ibb.co.com/LDYN5r5g/06.jpg",
     "name": "Laura M. Garcia",
     "speciality": "Employment Law",
     "experience": 7,
@@ -61,7 +61,7 @@
   },
   {
     "id": "L007",
-    "image": "https://example.com/images/lawyer7.jpg",
+    "image": "https://i.ibb.co.com/SwCyjCMH/07.jpg",
     "name": "Robert J. Lee",
     "speciality": "Tax Law",
     "experience": 18,
@@ -71,8 +71,8 @@
   },
   {
     "id": "L008",
-    "image": "https://example.com/images/lawyer8.jpg",
-    "name": "Jennifer P. Martinez",
+    "image": "https://i.ibb.co.com/x8B7dKtn/08.jpg",
+    "name": "John P. Martinez",
     "speciality": "Personal Injury",
     "experience": 9,
     "licenseNumber": "GA789456",
@@ -81,7 +81,7 @@
   },
   {
     "id": "L009",
-    "image": "https://example.com/images/lawyer9.jpg",
+    "image": "https://i.ibb.co.com/6JvykqWG/09.jpg",
     "name": "Thomas E. Clark",
     "speciality": "Environmental Law",
     "experience": 14,
@@ -91,8 +91,8 @@
   },
   {
     "id": "L010",
-    "image": "https://example.com/images/lawyer10.jpg",
-    "name": "Amanda R. Young",
+    "image": "https://i.ibb.co.com/WWqfFwxG/10.jpg",
+    "name": "Brown R. Young",
     "speciality": "Immigration Law",
     "experience": 6,
     "licenseNumber": "AZ890123",
@@ -101,7 +101,7 @@
   },
   {
     "id": "L011",
-    "image": "https://example.com/images/lawyer11.jpg",
+    "image": "https://i.ibb.co.com/vCRVxGHf/11.jpg",
     "name": "Steven C. Adams",
     "speciality": "Bankruptcy Law",
     "experience": 16,
@@ -111,8 +111,8 @@
   },
   {
     "id": "L012",
-    "image": "https://example.com/images/lawyer12.jpg",
-    "name": "Michelle A. Turner",
+    "image": "https://i.ibb.co.com/r2qWR4xG/12.jpg",
+    "name": "",
     "speciality": "Civil Litigation",
     "experience": 11,
     "licenseNumber": "MI678901",
@@ -121,7 +121,7 @@
   },
   {
     "id": "L013",
-    "image": "https://example.com/images/lawyer13.jpg",
+    "image": "https://i.ibb.co.com/xqNRP2C6/13.jpg",
     "name": "James F. Wright",
     "speciality": "Health Care Law",
     "experience": 13,
@@ -131,8 +131,8 @@
   },
   {
     "id": "L014",
-    "image": "https://example.com/images/lawyer14.jpg",
-    "name": "Elizabeth K. Hall",
+    "image": "https://i.ibb.co.com/1tCcBrXk/14.jpg",
+    "name": "Christopher D. King",
     "speciality": "Trusts and Estates",
     "experience": 17,
     "licenseNumber": "VA789012",
@@ -141,7 +141,7 @@
   },
   {
     "id": "L015",
-    "image": "https://example.com/images/lawyer15.jpg",
+    "image": "https://i.ibb.co.com/Fq09w3dn/15.jpg",
     "name": "Daniel S. Moore",
     "speciality": "Construction Law",
     "experience": 10,
@@ -151,7 +151,7 @@
   },
   {
     "id": "L016",
-    "image": "https://example.com/images/lawyer16.jpg",
+    "image": "https://i.ibb.co.com/PzMW7VBZ/16.jpg",
     "name": "Rachel B. Lopez",
     "speciality": "Education Law",
     "experience": 8,
@@ -161,8 +161,8 @@
   },
   {
     "id": "L017",
-    "image": "https://example.com/images/lawyer17.jpg",
-    "name": "Christopher D. King",
+    "image": "https://i.ibb.co.com/DgK3qKCn/17.jpg",
+    "name": "Elizabeth K. Hall",
     "speciality": "Sports Law",
     "experience": 12,
     "licenseNumber": "NV567890",
@@ -171,7 +171,7 @@
   },
   {
     "id": "L018",
-    "image": "https://example.com/images/lawyer18.jpg",
+    "image": "https://i.ibb.co.com/39KWp3qM/18.jpg",
     "name": "Patricia E. Scott",
     "speciality": "Entertainment Law",
     "experience": 15,
@@ -181,7 +181,7 @@
   },
   {
     "id": "L019",
-    "image": "https://example.com/images/lawyer19.jpg",
+    "image": "https://i.ibb.co.com/7dLQCmjG/19.jpg",
     "name": "Kevin M. Green",
     "speciality": "Maritime Law",
     "experience": 19,

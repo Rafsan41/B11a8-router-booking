@@ -14,26 +14,6 @@ const Lawyers = ({ LawyersData }) => {
       setDisplayLawyer(data.slice(0, 6));
     }
   }, [data, showALl]);
-  // https://i.ibb.co.com/232qJvMS/20.jpg
-  //
-  // https://i.ibb.co.com/wrRghBVv/02.jpg
-  // https://i.ibb.co.com/8gP95p09/03.jpg
-  // https://i.ibb.co.com/LzybXTSY/04.jpg
-  // https://i.ibb.co.com/RTZMBDHS/05.jpg
-  // https://i.ibb.co.com/LDYN5r5g/06.jpg
-  // https://i.ibb.co.com/SwCyjCMH/07.jpg
-  // https://i.ibb.co.com/x8B7dKtn/08.jpg
-  // https://i.ibb.co.com/6JvykqWG/09.jpg
-  // https://i.ibb.co.com/WWqfFwxG/10.jpg
-  // https://i.ibb.co.com/vCRVxGHf/11.jpg
-  // https://i.ibb.co.com/r2qWR4xG/12.jpg
-  // https://i.ibb.co.com/xqNRP2C6/13.jpg
-  // https://i.ibb.co.com/1tCcBrXk/14.jpg
-  // https://i.ibb.co.com/Fq09w3dn/15.jpg
-  // https://i.ibb.co.com/PzMW7VBZ/16.jpg
-  // https://i.ibb.co.com/DgK3qKCn/17.jpg
-  // https://i.ibb.co.com/39KWp3qM/18.jpg
-  // https://i.ibb.co.com/7dLQCmjG/19.jpg
 
   console.log(data);
   return (
