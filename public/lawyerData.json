@@ -1,0 +1,202 @@
+[
+  {
+    "id": "L001",
+    "image": "https://i.ibb.co.com/jZRr37Lw/01.jpg",
+    "name": "John A. Smith",
+    "speciality": "Corporate Law",
+    "experience": 15,
+    "licenseNumber": "CA123456",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 12000
+  },
+  {
+    "id": "L002",
+    "image": "https://i.ibb.co.com/jZRr37Lw/01.jpg",
+    "name": "Emily R. Johnson",
+    "speciality": "Criminal Defense",
+    "experience": 8,
+    "licenseNumber": "NY789012",
+    "availability": ["Mon", "Tue", "Wed", "Thu"],
+    "fees": 9000
+  },
+  {
+    "id": "L003",
+    "image": "https://example.com/images/lawyer3.jpg",
+    "name": "Michael T. Brown",
+    "speciality": "Family Law",
+    "experience": 12,
+    "licenseNumber": "TX345678",
+    "availability": ["Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 10000
+  },
+  {
+    "id": "L004",
+    "image": "https://example.com/images/lawyer4.jpg",
+    "name": "Sarah L. Davis",
+    "speciality": "Intellectual Property",
+    "experience": 10,
+    "licenseNumber": "FL901234",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 11000
+  },
+  {
+    "id": "L005",
+    "image": "https://example.com/images/lawyer5.jpg",
+    "name": "David K. Wilson",
+    "speciality": "Real Estate Law",
+    "experience": 20,
+    "licenseNumber": "IL567890",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 15000
+  },
+  {
+    "id": "L006",
+    "image": "https://example.com/images/lawyer6.jpg",
+    "name": "Laura M. Garcia",
+    "speciality": "Employment Law",
+    "experience": 7,
+    "licenseNumber": "PA123789",
+    "availability": ["Wed", "Thu", "Fri", "Sat", "Sun"],
+    "fees": 8000
+  },
+  {
+    "id": "L007",
+    "image": "https://example.com/images/lawyer7.jpg",
+    "name": "Robert J. Lee",
+    "speciality": "Tax Law",
+    "experience": 18,
+    "licenseNumber": "NJ456123",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 13000
+  },
+  {
+    "id": "L008",
+    "image": "https://example.com/images/lawyer8.jpg",
+    "name": "Jennifer P. Martinez",
+    "speciality": "Personal Injury",
+    "experience": 9,
+    "licenseNumber": "GA789456",
+    "availability": ["Tue", "Wed", "Thu", "Fri"],
+    "fees": 9500
+  },
+  {
+    "id": "L009",
+    "image": "https://example.com/images/lawyer9.jpg",
+    "name": "Thomas E. Clark",
+    "speciality": "Environmental Law",
+    "experience": 14,
+    "licenseNumber": "WA234567",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 11500
+  },
+  {
+    "id": "L010",
+    "image": "https://example.com/images/lawyer10.jpg",
+    "name": "Amanda R. Young",
+    "speciality": "Immigration Law",
+    "experience": 6,
+    "licenseNumber": "AZ890123",
+    "availability": ["Mon", "Tue", "Wed", "Thu"],
+    "fees": 7500
+  },
+  {
+    "id": "L011",
+    "image": "https://example.com/images/lawyer11.jpg",
+    "name": "Steven C. Adams",
+    "speciality": "Bankruptcy Law",
+    "experience": 16,
+    "licenseNumber": "OH345890",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 12500
+  },
+  {
+    "id": "L012",
+    "image": "https://example.com/images/lawyer12.jpg",
+    "name": "Michelle A. Turner",
+    "speciality": "Civil Litigation",
+    "experience": 11,
+    "licenseNumber": "MI678901",
+    "availability": ["Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 10500
+  },
+  {
+    "id": "L013",
+    "image": "https://example.com/images/lawyer13.jpg",
+    "name": "James F. Wright",
+    "speciality": "Health Care Law",
+    "experience": 13,
+    "licenseNumber": "NC123456",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 11000
+  },
+  {
+    "id": "L014",
+    "image": "https://example.com/images/lawyer14.jpg",
+    "name": "Elizabeth K. Hall",
+    "speciality": "Trusts and Estates",
+    "experience": 17,
+    "licenseNumber": "VA789012",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 13000
+  },
+  {
+    "id": "L015",
+    "image": "https://example.com/images/lawyer15.jpg",
+    "name": "Daniel S. Moore",
+    "speciality": "Construction Law",
+    "experience": 10,
+    "licenseNumber": "CO345678",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 10000
+  },
+  {
+    "id": "L016",
+    "image": "https://example.com/images/lawyer16.jpg",
+    "name": "Rachel B. Lopez",
+    "speciality": "Education Law",
+    "experience": 8,
+    "licenseNumber": "MA901234",
+    "availability": ["Tue", "Wed", "Thu", "Fri"],
+    "fees": 9000
+  },
+  {
+    "id": "L017",
+    "image": "https://example.com/images/lawyer17.jpg",
+    "name": "Christopher D. King",
+    "speciality": "Sports Law",
+    "experience": 12,
+    "licenseNumber": "NV567890",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 10500
+  },
+  {
+    "id": "L018",
+    "image": "https://example.com/images/lawyer18.jpg",
+    "name": "Patricia E. Scott",
+    "speciality": "Entertainment Law",
+    "experience": 15,
+    "licenseNumber": "LA123789",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+    "fees": 12000
+  },
+  {
+    "id": "L019",
+    "image": "https://example.com/images/lawyer19.jpg",
+    "name": "Kevin M. Green",
+    "speciality": "Maritime Law",
+    "experience": 19,
+    "licenseNumber": "MD456123",
+    "availability": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "fees": 14000
+  },
+  {
+    "id": "L020",
+    "image": "https://i.ibb.co.com/232qJvMS/20.jpg",
+    "name": "Stephanie N. Carter",
+    "speciality": "Aviation Law",
+    "experience": 7,
+    "licenseNumber": "OR789456",
+    "availability": ["Wed", "Thu", "Fri", "Sat", "Sun"],
+    "fees": 8500
+  }
+]
